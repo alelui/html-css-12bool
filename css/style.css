@@ -1,0 +1,26 @@
+/* *** COMMONS *** */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.row{
+    display: flex;
+    flex: wrap;
+}
+
+.box{
+    height: 200px;
+    background-color: #ffc0cb;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 200px;
+}
+

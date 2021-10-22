@@ -22,5 +22,14 @@
     border: 1px solid black;
     text-align: center;
     line-height: 200px;
+    padding: 5px;
+}
+
+.box-nested{
+    height: 190px;
+    background-color: #f07f80;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 200px;
 }
 
